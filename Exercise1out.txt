@@ -1,0 +1,31 @@
+0! = 1
+1! = 1
+2! = 2
+3! = 6
+4! = 24
+5! = 120
+6! = 720
+7! = 5040
+8! = 40320
+9! = 362880
+10! = 3628800
+
+Enter the base: 2
+Enter the exponent: 3
+
+2 to the power of 3 is 8
+
+Second Example:-
+
+Enter the base: 4
+Enter the exponent: 4
+
+4 to the power of 4 is 256
+
+
+Third Example:-
+
+Enter the base: 3
+Enter the exponent: 5
+
+3 to the power of 5 is 243
